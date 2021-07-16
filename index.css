@@ -1,0 +1,11 @@
+.field {
+    position: relative;
+}
+
+.ball {
+    position: absolute;
+    width: 40px;
+    left: 0px;
+    top: 0px;
+    transition: all 1s;
+}
